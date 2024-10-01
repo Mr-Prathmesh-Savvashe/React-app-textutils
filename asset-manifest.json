@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-app-textutils/static/css/main.e6c13ad2.css",
-    "main.js": "/React-app-textutils/static/js/main.9f39377d.js",
-    "static/js/453.02b6ed6f.chunk.js": "/React-app-textutils/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/React-app-textutils/index.html",
-    "main.e6c13ad2.css.map": "/React-app-textutils/static/css/main.e6c13ad2.css.map",
-    "main.9f39377d.js.map": "/React-app-textutils/static/js/main.9f39377d.js.map",
-    "453.02b6ed6f.chunk.js.map": "/React-app-textutils/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/Mr-Prathmesh-Savvashe/React-app-textutils/static/css/main.4cdc7cb3.css",
+    "main.js": "/Mr-Prathmesh-Savvashe/React-app-textutils/static/js/main.f5fc07c7.js",
+    "static/js/453.48046f87.chunk.js": "/Mr-Prathmesh-Savvashe/React-app-textutils/static/js/453.48046f87.chunk.js",
+    "index.html": "/Mr-Prathmesh-Savvashe/React-app-textutils/index.html",
+    "main.4cdc7cb3.css.map": "/Mr-Prathmesh-Savvashe/React-app-textutils/static/css/main.4cdc7cb3.css.map",
+    "main.f5fc07c7.js.map": "/Mr-Prathmesh-Savvashe/React-app-textutils/static/js/main.f5fc07c7.js.map",
+    "453.48046f87.chunk.js.map": "/Mr-Prathmesh-Savvashe/React-app-textutils/static/js/453.48046f87.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.9f39377d.js"
+    "static/css/main.4cdc7cb3.css",
+    "static/js/main.f5fc07c7.js"
   ]
 }
